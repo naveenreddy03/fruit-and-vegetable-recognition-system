@@ -24,7 +24,7 @@ Ensure you have the following installed:
 
 ```bash
 git clone https://github.com/naveenreddy03/fruit-and-vegetable-recognition-system
-cd FruitsVegRecognition
+cd fruitandvegetable
 ```
 
 ### Install Dependencies
@@ -63,7 +63,5 @@ streamlit run main.py
 The model was trained using a Convolutional Neural Network (CNN) architecture.
 The dataset includes various fruits and vegetables, and the model was optimized for accurate classification.
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details
 
